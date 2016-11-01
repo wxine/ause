@@ -1,4 +1,4 @@
 # ause
 ```
-JAVA WEB Sping Boot AUSE Xjx sb
+JAVA WEB Sping Boot AUSE :)
 ```
